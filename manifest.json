@@ -1,6 +1,6 @@
 {
   "description": "An example dynamic theme",
-  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/dynamic-theme",
+  "homepage_url": "https://github.com/priyank14/Dynamic-Theme-addon/blob/master/manifest.json",
   "manifest_version": 2,
   "name": "Dynamic theme example",
   "permissions": [
